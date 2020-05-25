@@ -1,2 +1,2 @@
 # London_Housing_Case_Study
-This is my first case study in the Springboard Data Science Bootcamp, in which we analyze changes in the price of housing in London.
+This is my first case study in the Springboard Data Science Bootcamp, in which we analyze changes in the price of housing in London. It looks like I may have taken a few different steps from those outlined in my original instructions. For clarity, I have included both the original instructions with my code, along with comments to clarify the points at which I found my own solution to this problem.
